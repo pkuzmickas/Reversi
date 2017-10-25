@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=fileName
+comment0.target=java.io.BufferedReader\ openFileToRead(java.lang.String)
+comment0.text=\r\n\ A\ method\ to\ open\ a\ file\ to\ read\r\n\ \r\n\ @param\ fileName\ the\ name\ of\ the\ file\ to\ open\r\n\ @return\ returns\ a\ bufferedReader\ object\ to\ use\ for\ reading\ the\ file\r\n
+comment1.params=fileName
+comment1.target=boolean\ isUsable(java.lang.String)
+comment1.text=\r\n\ A\ method\ to\ test\ if\ the\ file\ is\ usable\r\n\ \r\n\ @param\ fileName\ the\ name\ of\ the\ file\ to\ open\r\n\ @return\ returns\ true\ if\ the\ file\ is\ readable\ and\ it\ exists,\ otherwise\ returns\ false\r\n
+comment2.params=slot\ board\ turn\ player1\ player2\ player1Color\ player2Color\ player1Pieces\ player2Pieces
+comment2.target=void\ writeToFile(int,\ int[][],\ int,\ java.lang.String,\ java.lang.String,\ int,\ int,\ int,\ int)
+comment2.text=\r\n\ A\ method\ to\ save\ information\ to\ a\ file\r\n\ \r\n\ @param\ slot\ the\ slot\ the\ user\ wants\ to\ write\ the\ save\ to\r\n\ @param\ board\ the\ 2d\ array\ of\ the\ board\ the\ user\ wants\ to\ save\r\n\ @param\ turn\ the\ current\ turn\r\n\ @param\ player1\ the\ name\ of\ player\ 1\r\n\ @param\ player2\ the\ name\ of\ player\ 2\r\n\ @param\ player1Color\ the\ number\ of\ the\ player\ 1's\ color\ \r\n\ @param\ player2Color\ the\ number\ of\ the\ player\ 2's\ color\ \r\n\ @param\ player1Pieces\ the\ number\ of\ the\ player\ 1's\ pieces\r\n\ @param\ player2Pieces\ the\ number\ of\ the\ player\ 2's\ pieces\r\n
+comment3.params=slot\ player1\ player2
+comment3.target=void\ writeFileName(int,\ java.lang.String,\ java.lang.String)
+comment3.text=\r\n\ A\ method\ to\ put\ and\ write\ the\ slot's\ name\ and\ date\ in\r\n\ \r\n\ @param\ slot\ the\ slot\ the\ user\ wants\ to\ write\ the\ save\ to\r\n\ @param\ player1\ the\ name\ of\ player\ 1\r\n\ @param\ player2\ the\ name\ of\ player\ 2\r\n
+comment4.params=slot
+comment4.target=java.lang.String\ readName(int)
+comment4.text=\r\n\ A\ method\ read\ and\ return\ the\ name\ of\ the\ slot\r\n\ \r\n\ @param\ slot\ the\ slot\ the\ user\ wants\ to\ get\ the\ saved\ information\ from\r\n\ @return\ returns\ the\ name\ of\ the\ slot\r\n
+numComments=5

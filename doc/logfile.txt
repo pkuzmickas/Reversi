@@ -1,0 +1,44 @@
+Class documentation
+<---- javadoc command: ---->
+C:\Program Files (x86)\Java\jdk1.8.0_60\bin\javadoc.exe
+-author
+-version
+-nodeprecated
+-package
+-noindex
+-notree
+-nohelp
+-nonavbar
+-source
+1.8
+-classpath
+C:\Program Files (x86)\BlueJ\lib\bluejcore.jar;C:\Program Files (x86)\BlueJ\lib\junit-4.8.2.jar;C:\Program Files (x86)\BlueJ\lib\userlib\pi4j-core.jar;C:\Program Files (x86)\BlueJ\lib\userlib\pi4j-device.jar;C:\Program Files (x86)\BlueJ\lib\userlib\pi4j-gpio-extension.jar;C:\Program Files (x86)\BlueJ\lib\userlib\pi4j-service.jar;U:\ac11001\Reversi
+-d
+U:\ac11001\Reversi\doc
+-encoding
+UTF-8
+-charset
+UTF-8
+-docletpath
+C:\Program Files (x86)\BlueJ\lib\bjdoclet.jar
+-doclet
+bluej.doclet.doclets.formats.html.HtmlDoclet
+U:\ac11001\Reversi\Board.java
+<---- end of javadoc command ---->
+Loading source file U:\ac11001\Reversi\Board.java...
+Constructing Javadoc information...
+Standard Doclet version 1.8.0_60
+Building tree for all the packages and classes...
+Generating U:\ac11001\Reversi\doc\Board.html...
+U:\ac11001\Reversi\Board.java:369: warning - @return tag cannot be used in method with void return type.
+U:\ac11001\Reversi\Board.java:424: warning - @return tag cannot be used in method with void return type.
+Generating U:\ac11001\Reversi\doc\package-frame.html...
+Generating U:\ac11001\Reversi\doc\package-summary.html...
+Generating U:\ac11001\Reversi\doc\constant-values.html...
+Building index for all the packages and classes...
+Building index for all classes...
+Generating U:\ac11001\Reversi\doc\allclasses-frame.html...
+Generating U:\ac11001\Reversi\doc\allclasses-noframe.html...
+Generating U:\ac11001\Reversi\doc\index.html...
+Generating U:\ac11001\Reversi\doc\stylesheet.css...
+2 warnings

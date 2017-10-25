@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=
+comment0.target=int\ getColor()
+comment0.text=\r\n\ A\ method\ to\ get\ the\ player's\ color.\r\n\ \r\n\ @return\ returns\ the\ color\ of\ the\ player.\r\n
+comment1.params=num
+comment1.target=void\ setColor(int)
+comment1.text=\r\n\ A\ method\ to\ set\ the\ player's\ color.\r\n\ \r\n\ @param\ num\ set\ the\ number\ of\ the\ color.\r\n
+comment2.params=
+comment2.target=java.lang.String\ getName()
+comment2.text=\r\n\ A\ method\ to\ get\ the\ player's\ name.\r\n\ \r\n\ @return\ returns\ the\ name\ of\ the\ player.\r\n
+comment3.params=theName
+comment3.target=void\ setName(java.lang.String)
+comment3.text=\r\n\ A\ method\ to\ set\ the\ player's\ name.\r\n\ \r\n\ @param\ theName\ the\ name\ of\ the\ player\r\n
+comment4.params=
+comment4.target=boolean\ isItComputer()
+comment4.text=\r\n\ A\ method\ to\ know\ if\ the\ player\ is\ a\ computer\ (AI).\r\n\ \r\n\ @return\ returns\ true\ if\ the\ player\ is\ computer.\r\n
+comment5.params=state
+comment5.target=void\ setIfComputer(boolean)
+comment5.text=\r\n\ A\ method\ to\ set\ if\ the\ player\ is\ computer.\r\n\ \r\n\ @param\ state\ true\ if\ player\ is\ computer,\ false\ if\ not\r\n
+numComments=6
